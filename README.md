@@ -1,14 +1,14 @@
-\# AWS Monitoring Stack (Prometheus + Grafana)
+AWS Monitoring Stack (Prometheus + Grafana)
 
 
 
-\## Overview
+Overview
 
 Deployed a real-time monitoring solution on AWS EC2 using Prometheus and Grafana to track Linux system performance metrics.
 
 
 
-\## Architecture
+Architecture
 
 \- Monitoring Server: Prometheus + Grafana
 
@@ -18,7 +18,7 @@ Deployed a real-time monitoring solution on AWS EC2 using Prometheus and Grafana
 
 
 
-\## Tech Stack
+Tech Stack
 
 \- AWS EC2
 
@@ -32,7 +32,7 @@ Deployed a real-time monitoring solution on AWS EC2 using Prometheus and Grafana
 
 
 
-\## What This Does
+What This Does
 
 \- Collects system metrics (CPU, Memory, Disk, Network)
 
@@ -42,29 +42,29 @@ Deployed a real-time monitoring solution on AWS EC2 using Prometheus and Grafana
 
 
 
-\## Screenshots
+Screenshots
 
 
 
-\### Grafana Dashboard
+Grafana Dashboard
 
 ![Grafana](screenshots/grafana-dashboard.png)
 
 
 
-\### Prometheus Targets
+Prometheus Targets
 
 ![Prometheus](screenshots/prometheus-targets.png)
 
 
 
-\### EC2 Instances
+EC2 Instances
 
 ![EC2](screenshots/ec2-instances.png)
 
 
 
-\## Key Takeaways
+Key Takeaways
 
 \- Built and configured a monitoring stack from scratch
 
