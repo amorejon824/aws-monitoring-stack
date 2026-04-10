@@ -48,19 +48,19 @@ Deployed a real-time monitoring solution on AWS EC2 using Prometheus and Grafana
 
 \### Grafana Dashboard
 
-!\[Grafana](screenshots/grafana-dashboard.png)
+![Grafana](screenshots/grafana-dashboard.png)
 
 
 
 \### Prometheus Targets
 
-!\[Prometheus](screenshots/prometheus-targets.png)
+![Prometheus](screenshots/prometheus-targets.png)
 
 
 
 \### EC2 Instances
 
-!\[EC2](screenshots/ec2-instances.png)
+![EC2](screenshots/ec2-instances.png)
 
 
 
